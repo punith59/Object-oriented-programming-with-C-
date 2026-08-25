@@ -1,9 +1,8 @@
 # Object-oriented-programming-with-C-
 
-# Assignment Submission
-
-## Source Code
-The implementation can be found in [main.cpp](./main.cpp).
+## Experiment 1
+Program 1 : [Exp1_Prog1.cpp](./Exp1_Prog1.cpp).
+Program 1 Output : [Exp1_Prog1.png](./Exp1_Prog1.png).
 
 ## Program Output
 Here is the screenshot of the program execution:
